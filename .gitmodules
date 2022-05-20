@@ -1,0 +1,3 @@
+[submodule "pandoc-beamer-how-to"]
+	path = pandoc-beamer-how-to
+	url = https://github.com/alexeygumirov/pandoc-beamer-how-to.git
